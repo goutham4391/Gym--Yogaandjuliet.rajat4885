@@ -1,0 +1,159 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 20:02:39 at https://yogaandjuliet.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yogaandjuliet.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Day7\Web35\Site35" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:03:19	Error: 	"Method Not Allowed" (405) at link https://yogaandjuliet.com/xmlrpc.php (from https://yogaandjuliet.com/)
+20:03:19	Warning: 	Moved Permanently for yogaandjuliet.com/robots.txt
+20:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/robots.txt and https://yogaandjuliet.com/robots.txt
+20:03:19	Warning: 	Warning moved treated for yogaandjuliet.com/robots.txt (real one is https://yogaandjuliet.com/robots.txt)
+20:03:19	Warning: 	Moved Permanently for yogaandjuliet.com/feed/
+20:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/feed/ and https://yogaandjuliet.com/feed/
+20:03:19	Warning: 	File has moved from yogaandjuliet.com/feed/ to https://yogaandjuliet.com/feed/
+20:03:19	Warning: 	Moved Permanently for yogaandjuliet.com/comments/feed/
+20:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/comments/feed/ and https://yogaandjuliet.com/comments/feed/
+20:03:19	Warning: 	File has moved from yogaandjuliet.com/comments/feed/ to https://yogaandjuliet.com/comments/feed/
+20:03:42	Warning: 	Moved Permanently for yogaandjuliet.com/wp-json/
+20:03:42	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/wp-json/ and https://yogaandjuliet.com/wp-json/
+20:03:42	Warning: 	File has moved from yogaandjuliet.com/wp-json/ to https://yogaandjuliet.com/wp-json/
+20:03:42	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=2A2C81BDA5F52DF61AF2DBB26E670217
+20:03:42	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=2A2C81BDA5F52DF61AF2DBB26E670217 and https://yogaandjuliet.com/?wordfence_lh=1&hid=2A2C81BDA5F52DF61AF2DBB26E670217
+20:03:42	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=2A2C81BDA5F52DF61AF2DBB26E670217 to https://yogaandjuliet.com/?wordfence_lh=1&hid=2A2C81BDA5F52DF61AF2DBB26E670217
+20:03:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://yogaandjuliet.com/)
+20:09:17	Warning: 	Moved Permanently for yogaandjuliet.com/was-ist-yoga/
+20:09:17	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/was-ist-yoga/ and https://yogaandjuliet.com/was-ist-yoga/
+20:09:17	Warning: 	File has moved from yogaandjuliet.com/was-ist-yoga/ to https://yogaandjuliet.com/was-ist-yoga/
+20:09:58	Error: 	"Bad Request" (400) at link https://yogaandjuliet.com/wp-admin/admin-ajax.php (from https://yogaandjuliet.com/)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Medium.eot (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Medium.woff2 (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Medium.woff (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-LightItalic.eot (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-LightItalic.woff2 (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-LightItalic.woff (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Light.eot (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Light.woff2 (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Error: 	"Not Found" (404) at link https://yogaandjuliet.com/fonts/Ogg-Light.woff (from https://yogaandjuliet.com/wp-content/cache/min/1/fonts/stylesheet-faafdc8940fa9e64ac8bfecb694ecc87.css)
+20:09:59	Warning: 	Moved Permanently for https://yogaandjuliet.com/?wordfence_lh=1%26hid=2A2C81BDA5F52DF61AF2DBB26E670217
+20:09:59	Warning: 	File has moved from https://yogaandjuliet.com/?wordfence_lh=1%26hid=2A2C81BDA5F52DF61AF2DBB26E670217 to https://yogaandjuliet.com/?wordfence_lh=1%26hid%3D2A2C81BDA5F52DF61AF2DBB26E670217
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?p=386
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=386 and https://yogaandjuliet.com/?p=386
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?p=386 to https://yogaandjuliet.com/?p=386
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=82598CA356B14BEE937314D17681300A
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=82598CA356B14BEE937314D17681300A and https://yogaandjuliet.com/?wordfence_lh=1&hid=82598CA356B14BEE937314D17681300A
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=82598CA356B14BEE937314D17681300A to https://yogaandjuliet.com/?wordfence_lh=1&hid=82598CA356B14BEE937314D17681300A
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16187
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16187 and https://yogaandjuliet.com/?p=16187
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?p=16187 to https://yogaandjuliet.com/?p=16187
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=37AF749A1A416AD65621B9161C4CCBB6
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=37AF749A1A416AD65621B9161C4CCBB6 and https://yogaandjuliet.com/?wordfence_lh=1&hid=37AF749A1A416AD65621B9161C4CCBB6
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=37AF749A1A416AD65621B9161C4CCBB6 to https://yogaandjuliet.com/?wordfence_lh=1&hid=37AF749A1A416AD65621B9161C4CCBB6
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16553
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16553 and https://yogaandjuliet.com/?p=16553
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?p=16553 to https://yogaandjuliet.com/?p=16553
+20:09:59	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=69798F7978169325C586895FB4080CE2
+20:09:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=69798F7978169325C586895FB4080CE2 and https://yogaandjuliet.com/?wordfence_lh=1&hid=69798F7978169325C586895FB4080CE2
+20:09:59	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=69798F7978169325C586895FB4080CE2 to https://yogaandjuliet.com/?wordfence_lh=1&hid=69798F7978169325C586895FB4080CE2
+20:10:30	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16032
+20:10:30	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16032 and https://yogaandjuliet.com/?p=16032
+20:10:30	Warning: 	File has moved from yogaandjuliet.com/?p=16032 to https://yogaandjuliet.com/?p=16032
+20:10:30	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=D7E0B5749CB030011877D571590D55EA
+20:10:30	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=D7E0B5749CB030011877D571590D55EA and https://yogaandjuliet.com/?wordfence_lh=1&hid=D7E0B5749CB030011877D571590D55EA
+20:10:30	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=D7E0B5749CB030011877D571590D55EA to https://yogaandjuliet.com/?wordfence_lh=1&hid=D7E0B5749CB030011877D571590D55EA
+20:10:30	Warning: 	Moved Permanently for yogaandjuliet.com/?p=14876
+20:10:30	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=14876 and https://yogaandjuliet.com/?p=14876
+20:10:30	Warning: 	File has moved from yogaandjuliet.com/?p=14876 to https://yogaandjuliet.com/?p=14876
+20:10:30	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=C3AD4B87ECF02CFDA8341F31C64776D0
+20:10:30	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=C3AD4B87ECF02CFDA8341F31C64776D0 and https://yogaandjuliet.com/?wordfence_lh=1&hid=C3AD4B87ECF02CFDA8341F31C64776D0
+20:10:30	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=C3AD4B87ECF02CFDA8341F31C64776D0 to https://yogaandjuliet.com/?wordfence_lh=1&hid=C3AD4B87ECF02CFDA8341F31C64776D0
+20:10:30	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16732
+20:10:30	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16732 and https://yogaandjuliet.com/?p=16732
+20:10:30	Warning: 	File has moved from yogaandjuliet.com/?p=16732 to https://yogaandjuliet.com/?p=16732
+20:10:31	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=1A4EF8C816C35B15EFA52752C952B09C
+20:10:31	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=1A4EF8C816C35B15EFA52752C952B09C and https://yogaandjuliet.com/?wordfence_lh=1&hid=1A4EF8C816C35B15EFA52752C952B09C
+20:10:31	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=1A4EF8C816C35B15EFA52752C952B09C to https://yogaandjuliet.com/?wordfence_lh=1&hid=1A4EF8C816C35B15EFA52752C952B09C
+20:10:31	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16729
+20:10:31	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16729 and https://yogaandjuliet.com/?p=16729
+20:10:31	Warning: 	File has moved from yogaandjuliet.com/?p=16729 to https://yogaandjuliet.com/?p=16729
+20:10:31	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=55DF1EE6662A7F73B341852865435E77
+20:10:31	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=55DF1EE6662A7F73B341852865435E77 and https://yogaandjuliet.com/?wordfence_lh=1&hid=55DF1EE6662A7F73B341852865435E77
+20:10:31	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=55DF1EE6662A7F73B341852865435E77 to https://yogaandjuliet.com/?wordfence_lh=1&hid=55DF1EE6662A7F73B341852865435E77
+20:11:01	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16760
+20:11:01	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16760 and https://yogaandjuliet.com/?p=16760
+20:11:01	Warning: 	File has moved from yogaandjuliet.com/?p=16760 to https://yogaandjuliet.com/?p=16760
+20:11:01	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=B1FDDB7A9EC3F02272930FF8FD8C76FA
+20:11:01	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=B1FDDB7A9EC3F02272930FF8FD8C76FA and https://yogaandjuliet.com/?wordfence_lh=1&hid=B1FDDB7A9EC3F02272930FF8FD8C76FA
+20:11:01	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=B1FDDB7A9EC3F02272930FF8FD8C76FA to https://yogaandjuliet.com/?wordfence_lh=1&hid=B1FDDB7A9EC3F02272930FF8FD8C76FA
+20:11:01	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16666
+20:11:01	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16666 and https://yogaandjuliet.com/?p=16666
+20:11:01	Warning: 	File has moved from yogaandjuliet.com/?p=16666 to https://yogaandjuliet.com/?p=16666
+20:11:01	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=CE60026EE81FA0D42664960FF42A8AAB
+20:11:01	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=CE60026EE81FA0D42664960FF42A8AAB and https://yogaandjuliet.com/?wordfence_lh=1&hid=CE60026EE81FA0D42664960FF42A8AAB
+20:11:01	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=CE60026EE81FA0D42664960FF42A8AAB to https://yogaandjuliet.com/?wordfence_lh=1&hid=CE60026EE81FA0D42664960FF42A8AAB
+20:11:02	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16385
+20:11:02	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16385 and https://yogaandjuliet.com/?p=16385
+20:11:02	Warning: 	File has moved from yogaandjuliet.com/?p=16385 to https://yogaandjuliet.com/?p=16385
+20:11:02	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=42A5969D7CDE1AAB6C0A685DC71E894A
+20:11:02	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=42A5969D7CDE1AAB6C0A685DC71E894A and https://yogaandjuliet.com/?wordfence_lh=1&hid=42A5969D7CDE1AAB6C0A685DC71E894A
+20:11:02	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=42A5969D7CDE1AAB6C0A685DC71E894A to https://yogaandjuliet.com/?wordfence_lh=1&hid=42A5969D7CDE1AAB6C0A685DC71E894A
+20:11:02	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16384
+20:11:02	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16384 and https://yogaandjuliet.com/?p=16384
+20:11:02	Warning: 	File has moved from yogaandjuliet.com/?p=16384 to https://yogaandjuliet.com/?p=16384
+20:11:03	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=DD5287A6813E891D9B87990E26C5C84D
+20:11:03	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=DD5287A6813E891D9B87990E26C5C84D and https://yogaandjuliet.com/?wordfence_lh=1&hid=DD5287A6813E891D9B87990E26C5C84D
+20:11:03	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=DD5287A6813E891D9B87990E26C5C84D to https://yogaandjuliet.com/?wordfence_lh=1&hid=DD5287A6813E891D9B87990E26C5C84D
+20:11:33	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16421
+20:11:33	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16421 and https://yogaandjuliet.com/?p=16421
+20:11:33	Warning: 	File has moved from yogaandjuliet.com/?p=16421 to https://yogaandjuliet.com/?p=16421
+20:11:33	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=B4BAFC228C4F633906D7E9502B6B34F3
+20:11:33	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=B4BAFC228C4F633906D7E9502B6B34F3 and https://yogaandjuliet.com/?wordfence_lh=1&hid=B4BAFC228C4F633906D7E9502B6B34F3
+20:11:33	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=B4BAFC228C4F633906D7E9502B6B34F3 to https://yogaandjuliet.com/?wordfence_lh=1&hid=B4BAFC228C4F633906D7E9502B6B34F3
+20:11:33	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16362
+20:11:33	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16362 and https://yogaandjuliet.com/?p=16362
+20:11:33	Warning: 	File has moved from yogaandjuliet.com/?p=16362 to https://yogaandjuliet.com/?p=16362
+20:11:33	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=FDA12B7DD96963873B36ABFF3253A69E
+20:11:33	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=FDA12B7DD96963873B36ABFF3253A69E and https://yogaandjuliet.com/?wordfence_lh=1&hid=FDA12B7DD96963873B36ABFF3253A69E
+20:11:33	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=FDA12B7DD96963873B36ABFF3253A69E to https://yogaandjuliet.com/?wordfence_lh=1&hid=FDA12B7DD96963873B36ABFF3253A69E
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/blog/barfussgefuehl-mit-den-minimalschuhen-von-wildling/feed/
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/barfussgefuehl-mit-den-minimalschuhen-von-wildling/feed/ and https://yogaandjuliet.com/blog/barfussgefuehl-mit-den-minimalschuhen-von-wildling/feed/
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/blog/barfussgefuehl-mit-den-minimalschuhen-von-wildling/feed/ to https://yogaandjuliet.com/blog/barfussgefuehl-mit-den-minimalschuhen-von-wildling/feed/
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16746
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16746 and https://yogaandjuliet.com/?p=16746
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/?p=16746 to https://yogaandjuliet.com/?p=16746
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=0AF539E603E84FB045D5EDF7A56476DD
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=0AF539E603E84FB045D5EDF7A56476DD and https://yogaandjuliet.com/?wordfence_lh=1&hid=0AF539E603E84FB045D5EDF7A56476DD
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=0AF539E603E84FB045D5EDF7A56476DD to https://yogaandjuliet.com/?wordfence_lh=1&hid=0AF539E603E84FB045D5EDF7A56476DD
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/blog/category/random/page/2/
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/category/random/page/2/ and https://yogaandjuliet.com/blog/category/random/page/2/
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/blog/category/random/page/2/ to https://yogaandjuliet.com/blog/category/random/page/2/
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/blog/category/random/feed/
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/category/random/feed/ and https://yogaandjuliet.com/blog/category/random/feed/
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/blog/category/random/feed/ to https://yogaandjuliet.com/blog/category/random/feed/
+20:11:34	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=B21FED9221351777FB21670039DD913A
+20:11:34	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=B21FED9221351777FB21670039DD913A and https://yogaandjuliet.com/?wordfence_lh=1&hid=B21FED9221351777FB21670039DD913A
+20:11:34	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=B21FED9221351777FB21670039DD913A to https://yogaandjuliet.com/?wordfence_lh=1&hid=B21FED9221351777FB21670039DD913A
+20:15:35	Warning: 	Moved Permanently for yogaandjuliet.com/blog/auszeit-im-falkensteiner-schlosshotel-velden/feed/
+20:15:35	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/auszeit-im-falkensteiner-schlosshotel-velden/feed/ and https://yogaandjuliet.com/blog/auszeit-im-falkensteiner-schlosshotel-velden/feed/
+20:15:35	Warning: 	File has moved from yogaandjuliet.com/blog/auszeit-im-falkensteiner-schlosshotel-velden/feed/ to https://yogaandjuliet.com/blog/auszeit-im-falkensteiner-schlosshotel-velden/feed/
+20:15:36	Warning: 	Moved Permanently for yogaandjuliet.com/?p=16594
+20:15:36	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?p=16594 and https://yogaandjuliet.com/?p=16594
+20:15:36	Warning: 	File has moved from yogaandjuliet.com/?p=16594 to https://yogaandjuliet.com/?p=16594
+20:15:36	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=E600FF282C9D302606D9F3960E7472F1
+20:15:36	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=E600FF282C9D302606D9F3960E7472F1 and https://yogaandjuliet.com/?wordfence_lh=1&hid=E600FF282C9D302606D9F3960E7472F1
+20:15:36	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=E600FF282C9D302606D9F3960E7472F1 to https://yogaandjuliet.com/?wordfence_lh=1&hid=E600FF282C9D302606D9F3960E7472F1
+20:15:41	Warning: 	Moved Permanently for yogaandjuliet.com/blog/category/travel/page/2/
+20:15:41	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/category/travel/page/2/ and https://yogaandjuliet.com/blog/category/travel/page/2/
+20:15:41	Warning: 	File has moved from yogaandjuliet.com/blog/category/travel/page/2/ to https://yogaandjuliet.com/blog/category/travel/page/2/
+20:15:41	Warning: 	Moved Permanently for yogaandjuliet.com/blog/category/travel/feed/
+20:15:41	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/blog/category/travel/feed/ and https://yogaandjuliet.com/blog/category/travel/feed/
+20:15:41	Warning: 	File has moved from yogaandjuliet.com/blog/category/travel/feed/ to https://yogaandjuliet.com/blog/category/travel/feed/
+20:15:42	Warning: 	Moved Permanently for yogaandjuliet.com/?wordfence_lh=1&hid=3A4EA04BBD02091698616B0FFF696533
+20:15:42	Warning: 	Redirected link is identical because of 'URL Hack' option: yogaandjuliet.com/?wordfence_lh=1&hid=3A4EA04BBD02091698616B0FFF696533 and https://yogaandjuliet.com/?wordfence_lh=1&hid=3A4EA04BBD02091698616B0FFF696533
+20:15:42	Warning: 	File has moved from yogaandjuliet.com/?wordfence_lh=1&hid=3A4EA04BBD02091698616B0FFF696533 to https://yogaandjuliet.com/?wordfence_lh=1&hid=3A4EA04BBD02091698616B0FFF696533
+20:18:32	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
